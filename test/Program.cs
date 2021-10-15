@@ -43,6 +43,7 @@ namespace test
             Console.WriteLine("Age: ",age);
             Console.WriteLine("Email: ",email);
             Console.WriteLine("Boyfriend/Girl: ",bg);
+            Console.WriteLine("--------------------------");
             Console.ReadLine();
 
         }
