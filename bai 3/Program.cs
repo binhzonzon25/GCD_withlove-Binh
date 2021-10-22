@@ -12,7 +12,7 @@ namespace bai_3
             int num = int.Parse(Console.ReadLine());
             for(int i =1; i< num; i++)
             {
-                sum = sum + num;
+                sum = sum + i;
             }
             Console.WriteLine($"Sum: {sum}");
             Console.WriteLine("---------------------------");
